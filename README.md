@@ -92,10 +92,6 @@ This is the backend for the Hotspot Dating App built using FastAPI. The app focu
 
 Feel free to contribute to this project by opening a pull request or an issue.
 
-### License
-
-This project is licensed under the MIT License.
-
 ## Contact
 
 For any inquiries or issues, please contact [thegluping@gmail.com](mailto:thegluping@gmail.com).
